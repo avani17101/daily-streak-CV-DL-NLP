@@ -9,4 +9,5 @@ experiments and scripts I write daily for various tasks along with list of inter
 * [extract youtube data from python API](https://www.presentslide.in/2019/09/extracting-youtube-data-api-python.html)
 * [downloading youtube videos using python script](https://towardsdatascience.com/the-easiest-way-to-download-youtube-videos-using-python-2640958318ab)
 * [causal AI resources](https://github.com/napsternxg/awesome-causality)
+* [upgrade code in tensorflow 1 to tensorflow 2 automatically](https://www.tensorflow.org/guide/upgrade)
 
