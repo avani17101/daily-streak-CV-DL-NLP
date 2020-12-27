@@ -11,4 +11,4 @@ experiments and scripts I write daily for various tasks along with list of inter
 * [causal AI resources](https://github.com/napsternxg/awesome-causality)
 * [upgrade code in tensorflow 1 to tensorflow 2 automatically](https://www.tensorflow.org/guide/upgrade)
 * [you and your research: DR. RICHARD W. HAMMING](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
-
+* [PyTorch vs Tensorflow: great blog](https://thegradient.pub/state-of-ml-frameworks-2019-pytorch-dominates-research-tensorflow-dominates-industry/)
