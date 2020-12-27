@@ -1,5 +1,5 @@
 # daily-streak-CV-DL-NLP
-experiments and scripts I write daily for various tasks along with list of interesting things I come across:
+List of interesting resources I come across:
 
 ## List
 * [image stching using opencv](https://www.pyimagesearch.com/2018/12/17/image-stitching-with-opencv-and-python/)
