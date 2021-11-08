@@ -12,3 +12,7 @@ List of interesting resources I come across:
 * [upgrade code in tensorflow 1 to tensorflow 2 automatically](https://www.tensorflow.org/guide/upgrade)
 * [you and your research: DR. RICHARD W. HAMMING](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 * [PyTorch vs Tensorflow: great blog](https://thegradient.pub/state-of-ml-frameworks-2019-pytorch-dominates-research-tensorflow-dominates-industry/)
+
+
+## other
+* [add lfs to prev commits](https://github.com/git-lfs/git-lfs/issues/326)
